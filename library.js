@@ -48,4 +48,4 @@ printInventory() {
 
 
 
-module.exports = Library;
+export default Library
